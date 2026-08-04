@@ -1,22 +1,2 @@
-{"timestamp":"00:00:01.818","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:03.871","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
-{"timestamp":"00:00:16.610","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
-{"timestamp":"00:05:02.468","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.470","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.473","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.475","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.477","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.481","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.482","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.485","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.486","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.491","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.492","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.501","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.503","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.508","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.510","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.512","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:05:02.513","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:06:07.461","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
-{"timestamp":"00:06:07.463","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/mahamadshaikh/Desktop/figmodel_project/frontend/src/app'"}
+{"timestamp":"00:00:02.079","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:22.264","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
