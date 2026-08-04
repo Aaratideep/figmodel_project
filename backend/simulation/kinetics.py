@@ -1,3 +1,4 @@
+# pyrefly: ignore [missing-import]
 import numpy as np
 from scipy.optimize import curve_fit
 import pandas as pd
