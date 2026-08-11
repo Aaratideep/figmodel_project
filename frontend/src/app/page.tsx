@@ -141,7 +141,7 @@ export default function Dashboard() {
 
     try {
       if (!isBatch) {
-        const res = await fetch("http://127.0.0.1:8000/api/simulate", {
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000"}/api/simulate`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(inputs)
@@ -151,7 +151,7 @@ export default function Dashboard() {
         setData(data);
         setBatchData(null);
       } else {
-        const res = await fetch("http://127.0.0.1:8000/api/simulate/batch", {
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000"}/api/simulate/batch`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(inputs)
