@@ -3,15 +3,20 @@ from fastapi.middleware.cors import CORSMiddleware
 from models import SimulationInput, APIResponse, BatchAPIResponse
 from simulation.simulation import generate_simulation_data
 
-app = FastAPI(title="Digital Twin Hybrid Solar Dryer API")
 
+
+app = FastAPI()
+
+# Add CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # Allows all frontend origins (or specify your Vercel URL)
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
 
 @app.post("/api/simulate", response_model=APIResponse)
 async def run_simulation(inputs: SimulationInput):
