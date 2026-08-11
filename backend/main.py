@@ -16,7 +16,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
+@app.get("/")
+def read_root():
+    return {"status": "online", "message": "FigModel API is running!"}
 
 @app.post("/api/simulate", response_model=APIResponse)
 async def run_simulation(inputs: SimulationInput):
